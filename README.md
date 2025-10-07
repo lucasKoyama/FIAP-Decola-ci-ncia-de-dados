@@ -3,7 +3,7 @@ LucasHidekiOliveiraKoyama_RM566925_fase2_cap7
 
 Cada etapa é um subtitulo, com a descrição sendo o entregável da etapa.
 NOTA: este projeto teve ajuda do chatGPT para as análises dos passos 3 e 4.
-[**Github do projeto**](https://github.com/lucasKoyama/FIAP-Decola-ci-ncia-de-dados)
+[**Github do projeto**](https://github.com/lucasKoyama/FIAP-Decola-ciencia-de-dados)
 
 ## 1. Pesquise nas seguintes fontes de dados públicos, dados relacionados ao agronegócio:
 Etapa 1, **pesquisei na CONAB** (Companhia Nacional de Abastecimento), https://portaldeinformacoes.conab.gov.br/precos-minimos.html
